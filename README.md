@@ -1,1 +1,1 @@
-Repozytorium plików zapasowych dla strony firmy [https://euro-style.pl](Euro-Style)
+Repozytorium plików zapasowych dla strony firmy [Euro-Style](https://euro-style.pl)
